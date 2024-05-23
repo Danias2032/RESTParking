@@ -1,4 +1,7 @@
-﻿namespace Parkfinder
+﻿using Parkfinder.Context;
+using Parkfinder.Models;
+
+namespace Parkfinder.RESTParking.Repositories
 {
     public class PFRepoDB
     {

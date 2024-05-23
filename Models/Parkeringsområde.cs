@@ -1,4 +1,4 @@
-﻿namespace Parkfinder
+﻿namespace Parkfinder.Models
 {
     public class Parkeringsområde
     {

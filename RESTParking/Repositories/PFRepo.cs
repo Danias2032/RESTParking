@@ -1,6 +1,7 @@
 ﻿using System.Xml.Linq;
+using Parkfinder.Models;
 
-namespace Parkfinder
+namespace Parkfinder.RESTParking.Repositories
 {
     public class PFRepo
     {
