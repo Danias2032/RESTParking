@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parkfinder", "Parkfinder.csproj", "{16D4E709-3BF2-404F-83D2-8B9C77DDF114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkfinderTests", "..\ParkfinderTests\ParkfinderTests.csproj", "{607734D7-379D-4EF9-A254-A519ADDA7FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D4E709-3BF2-404F-83D2-8B9C77DDF114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D4E709-3BF2-404F-83D2-8B9C77DDF114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D4E709-3BF2-404F-83D2-8B9C77DDF114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D4E709-3BF2-404F-83D2-8B9C77DDF114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607734D7-379D-4EF9-A254-A519ADDA7FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607734D7-379D-4EF9-A254-A519ADDA7FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607734D7-379D-4EF9-A254-A519ADDA7FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607734D7-379D-4EF9-A254-A519ADDA7FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52E9AFD-02F4-4EB1-A96F-8E3CA0EC129F}
+	EndGlobalSection
+EndGlobal
