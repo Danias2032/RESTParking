@@ -1,6 +1,0 @@
-@RESTParking_HostAddress = http://localhost:5258
-
-GET {{RESTParking_HostAddress}}/parking/
-Accept: application/json
-
-###
